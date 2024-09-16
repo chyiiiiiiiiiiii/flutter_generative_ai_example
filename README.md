@@ -1,5 +1,7 @@
 # Generative AI Example
 
+[![Chinese Version](https://img.shields.io/badge/README-%E4%B8%AD%E6%96%87%E7%89%88-blue)](README_zh.md)
+
 A Flutter project demonstrating the integration of Google Generative AI.
 
 ## Table of Contents
